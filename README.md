@@ -16,6 +16,10 @@ A modern, lightweight chatbot interface built with React and Vite. This project 
 - Easy to extend for custom AI backends
 - MIT licensed and open source
 
+## Screenshot
+
+![AI Chatbot Screenshot](screenshot/screen.png)
+
 ## 📁 Project Structure
 ```
 ├── public/              # Static assets
